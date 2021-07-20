@@ -42,8 +42,7 @@ test {
 //	enabled = false
 //}
 
-// needed for us to not generate a *-plain.jar
-// this jar conflicts with heroku and will crash your app
+	4
 jar {
 	enabled = false
 }
